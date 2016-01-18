@@ -1,0 +1,2 @@
+MSerial	KEYWORD1
+GetSerialNum	KEYWORD2
